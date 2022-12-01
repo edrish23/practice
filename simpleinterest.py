@@ -15,5 +15,5 @@ def simple_interest(p,t,r):
  si=(p*t*r)/100
  print("Simple Interest is ",si)
  return si
-
+print('test')
 simple_interest(8,6,8)
