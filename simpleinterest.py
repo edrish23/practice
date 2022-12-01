@@ -7,7 +7,7 @@ print(ans)
 print('test')
 """
 def simple_interest(p,t,r):
-
+ print('test')
  print('The Principal is',p)
  print('The time of period is',t)
  print('The Rate of interest',r)
