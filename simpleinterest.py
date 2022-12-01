@@ -4,6 +4,7 @@ t=5
 r=5
 ans=(p*t*r)/100
 print(ans)
+print('test')
 """
 def simple_interest(p,t,r):
 
